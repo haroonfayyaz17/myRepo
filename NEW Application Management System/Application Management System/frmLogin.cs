@@ -20,6 +20,7 @@ namespace Application_Management_System
             InitializeComponent();
             obj.assign();
             con = obj.con;
+            MessageBox.Show("Welcome to Application Management System");
         }
         void showApprovalMessage()
         {
