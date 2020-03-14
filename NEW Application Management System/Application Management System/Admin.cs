@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace Application_Management_System
 {
@@ -18,6 +19,7 @@ namespace Application_Management_System
             cusObj = new Customer();
             devObj = new Developer();
             permissionObj = new Permissions();
+
         }
 
         ~Admin()

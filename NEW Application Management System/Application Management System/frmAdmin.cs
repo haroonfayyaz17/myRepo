@@ -72,6 +72,7 @@ namespace Application_Management_System
             //GridApproveApps.DataSource = adl.ShowApprovedApps("Yes");
             //GridBlockAccount.DataSource = adl.ShowAllAccounts();
             //GridAllAdmins.DataSource = adl.ShowAllAdmins();
+            MessageBox.Show("Admin Panel");
         }
 
 
