@@ -20,6 +20,7 @@ namespace Application_Management_System
             InitializeComponent();
             obj.assign();
             con = obj.con;
+            MessageBox.Show("Welcome to AMS");
         }
         void showApprovalMessage()
         {
@@ -146,6 +147,11 @@ namespace Application_Management_System
         {
             if (e.KeyCode == Keys.Enter)
                 btnCreate_Click(sender, e);
+        }
+
+        private void frmLogin_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

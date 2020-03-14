@@ -84,3 +84,6 @@ E:\Haroon University\5th Semester(Haroon)\Application Management System Full & F
 E:\Haroon University\5th Semester(Haroon)\Application Management System Full & Final\NEW Application Management System\Application Management System\bin\Debug\Application Management System.pdb
 E:\Haroon University\5th Semester(Haroon)\Application Management System Full & Final\NEW Application Management System\Application Management System\bin\Debug\CircularProgressBar.dll
 E:\Haroon University\5th Semester(Haroon)\Application Management System Full & Final\NEW Application Management System\Application Management System\bin\Debug\WinFormAnimation.dll
+D:\myRepo-1\NEW Application Management System\Application Management System\bin\Debug\Application Management System.exe.config
+D:\myRepo-1\NEW Application Management System\Application Management System\obj\Debug\Application Management System.exe
+D:\myRepo-1\NEW Application Management System\Application Management System\obj\Debug\Application Management System.pdb
