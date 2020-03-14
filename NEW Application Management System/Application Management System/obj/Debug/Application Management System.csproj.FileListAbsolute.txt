@@ -84,3 +84,18 @@ E:\Haroon University\5th Semester(Haroon)\Application Management System Full & F
 E:\Haroon University\5th Semester(Haroon)\Application Management System Full & Final\NEW Application Management System\Application Management System\bin\Debug\Application Management System.pdb
 E:\Haroon University\5th Semester(Haroon)\Application Management System Full & Final\NEW Application Management System\Application Management System\bin\Debug\CircularProgressBar.dll
 E:\Haroon University\5th Semester(Haroon)\Application Management System Full & Final\NEW Application Management System\Application Management System\bin\Debug\WinFormAnimation.dll
+F:\myRepo\NEW Application Management System\Application Management System\bin\Debug\Application Management System.exe.config
+F:\myRepo\NEW Application Management System\Application Management System\obj\Debug\Application Management System.exe
+F:\myRepo\NEW Application Management System\Application Management System\obj\Debug\Application Management System.pdb
+F:\myRepo\NEW Application Management System\Application Management System\bin\Debug\Application Management System.exe
+F:\myRepo\NEW Application Management System\Application Management System\bin\Debug\Application Management System.pdb
+F:\myRepo\NEW Application Management System\Application Management System\bin\Debug\CircularProgressBar.dll
+F:\myRepo\NEW Application Management System\Application Management System\bin\Debug\WinFormAnimation.dll
+F:\myRepo\NEW Application Management System\Application Management System\obj\Debug\Application Management System.csprojResolveAssemblyReference.cache
+F:\myRepo\NEW Application Management System\Application Management System\obj\Debug\Application_Management_System.frmAdmin.resources
+F:\myRepo\NEW Application Management System\Application Management System\obj\Debug\Application_Management_System.frmDeveloper.resources
+F:\myRepo\NEW Application Management System\Application Management System\obj\Debug\Application_Management_System.frmApplicationPage.resources
+F:\myRepo\NEW Application Management System\Application Management System\obj\Debug\Application_Management_System.frmCreateAccount.resources
+F:\myRepo\NEW Application Management System\Application Management System\obj\Debug\Application_Management_System.frmLogin.resources
+F:\myRepo\NEW Application Management System\Application Management System\obj\Debug\Application_Management_System.Properties.Resources.resources
+F:\myRepo\NEW Application Management System\Application Management System\obj\Debug\Application Management System.csproj.GenerateResource.Cache
