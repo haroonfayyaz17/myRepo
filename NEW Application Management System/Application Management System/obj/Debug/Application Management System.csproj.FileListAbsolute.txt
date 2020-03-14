@@ -87,3 +87,15 @@ E:\Haroon University\5th Semester(Haroon)\Application Management System Full & F
 D:\myRepo-1\NEW Application Management System\Application Management System\bin\Debug\Application Management System.exe.config
 D:\myRepo-1\NEW Application Management System\Application Management System\obj\Debug\Application Management System.exe
 D:\myRepo-1\NEW Application Management System\Application Management System\obj\Debug\Application Management System.pdb
+D:\myRepo-1\NEW Application Management System\Application Management System\bin\Debug\Application Management System.exe
+D:\myRepo-1\NEW Application Management System\Application Management System\bin\Debug\Application Management System.pdb
+D:\myRepo-1\NEW Application Management System\Application Management System\bin\Debug\CircularProgressBar.dll
+D:\myRepo-1\NEW Application Management System\Application Management System\bin\Debug\WinFormAnimation.dll
+D:\myRepo-1\NEW Application Management System\Application Management System\obj\Debug\Application Management System.csprojResolveAssemblyReference.cache
+D:\myRepo-1\NEW Application Management System\Application Management System\obj\Debug\Application_Management_System.frmAdmin.resources
+D:\myRepo-1\NEW Application Management System\Application Management System\obj\Debug\Application_Management_System.frmDeveloper.resources
+D:\myRepo-1\NEW Application Management System\Application Management System\obj\Debug\Application_Management_System.frmApplicationPage.resources
+D:\myRepo-1\NEW Application Management System\Application Management System\obj\Debug\Application_Management_System.frmCreateAccount.resources
+D:\myRepo-1\NEW Application Management System\Application Management System\obj\Debug\Application_Management_System.frmLogin.resources
+D:\myRepo-1\NEW Application Management System\Application Management System\obj\Debug\Application_Management_System.Properties.Resources.resources
+D:\myRepo-1\NEW Application Management System\Application Management System\obj\Debug\Application Management System.csproj.GenerateResource.Cache
